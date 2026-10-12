@@ -6,4 +6,11 @@ return {
       colorscheme = "onedark",
     },
   },
+
+  -- -- tokyonight
+  -- {
+  --   "folke/tokyonight.nvim",
+  --   lazy = true,
+  --   opts = { style = "moon" },
+  -- },
 }
